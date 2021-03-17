@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Uno"
+        android:id="@+id/uno"
+        android:icon="@drawable/ic_extension_black_24dp"
+        />
+
+    <item
+        android:title="Dos"
+        android:id="@+id/dos"
+        android:icon="@drawable/ic_extension_black_24dp"
+        />
+
+    <item
+        android:title="Tres"
+        android:id="@+id/tres"
+        android:icon="@drawable/ic_extension_black_24dp"
+        />
+
+    <item
+        android:title="Cautro"
+        android:id="@+id/cautro"
+        android:icon="@drawable/ic_extension_black_24dp"
+        />
+
+
+</menu>
